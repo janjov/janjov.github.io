@@ -1,5 +1,5 @@
 var typed = new Typed(".typing", {
-    strings:["", "LifeLabs", "Filipino", "English", "Social Studies", "MAPEH", "Math", "Science"],
+    strings:["", "LifeLabs", "Filipino", "English", "Social Studies", "MAPEH", "Math", "Science",],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
