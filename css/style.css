@@ -578,8 +578,8 @@ h3.my-profession {
 
 .content .content-item {
     margin-bottom: 30px;
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
+    flex: 0 0 100%;
+    max-width: 100%;
 }
 
 .content .content-item .content-item-inner {
