@@ -632,7 +632,7 @@ h3.my-profession {
 .content .content-item .content-item-inner p {
     font-size: 16px;
     color: var(--text-black-900);
-    font-weight: 500px;
+    font-weight: 500;
     line-height: 25px;
 }
 /* End of content */
