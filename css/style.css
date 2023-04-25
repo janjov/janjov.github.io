@@ -634,6 +634,13 @@ h3.my-profession {
     color: var(--text-black-700);
     line-height: 25px;
 }
+
+.content .content-item .content-item-inner .bold-text {
+    font-size: 20px;
+    color: var(--text-black-900);
+    font-weight: 700;
+    line-height: 25px;
+}
 /* End of content */
 
 /* Portfolio */
