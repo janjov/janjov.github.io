@@ -635,7 +635,7 @@ h3.my-profession {
     line-height: 25px;
 }
 
-.content .content-item .content-item-inner .bold-text {
+.content .content-item .content-item-inner p .bold-text {
     font-size: 20px;
     color: var(--text-black-900);
     font-weight: 700;
