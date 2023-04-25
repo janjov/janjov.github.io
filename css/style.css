@@ -631,14 +631,8 @@ h3.my-profession {
 
 .content .content-item .content-item-inner p {
     font-size: 16px;
-    color: var(--text-black-700);
-    line-height: 25px;
-}
-
-.content .content-item .content-item-inner .bold-text p {
-    font-size: 20px;
     color: var(--text-black-900);
-    font-weight: 700;
+    font-weight: 500px;
     line-height: 25px;
 }
 /* End of content */
